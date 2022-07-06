@@ -1,0 +1,18 @@
+{
+    "preName" : "Vorname",
+    "surName" : "Nachname",
+    "houseNumber" : "Hausnummer",
+    "email" : "E-mail",
+    "street" : "Straße",
+    "zipCode" : "Postleitzahl",
+    "city" : "Stadt",
+    "clients" : "Klienten",
+    "protocol" : "Protokoll",
+    "nextSession" : "nächste Sitzung",
+    "lastSession" : "letzte Sitzung",
+    "status" : "Status",
+    "status.active" : "Aktiv",
+    "edit" : "Berabeiten",
+    "scheduleSession" : "Termin eintragen",
+    "fullName" : "Name"
+}

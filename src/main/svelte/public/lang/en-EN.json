@@ -1,0 +1,15 @@
+{
+    "preName" : "Prename",
+    "surName" : "Surname",
+    "houseNumber" : "Housenumber",
+    "email" : "Email",
+    "street" : "Street",
+    "zipCode" : "Zipcode",
+    "city" : "City",
+    "clients" : "Clients",
+    "protocol" : "Protocol",
+    "nextSession" : "next Session",
+    "lastSession" : "last Session",
+    "status" : "Status",
+    "fullName" : "Name"
+}
