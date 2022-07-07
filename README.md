@@ -1,3 +1,3 @@
 # TEDSY - TEnant Documentation SYstem
 
-A Software to documentate the development of your tenant.
+A Software to document the progress of your clients, tenants or patients.
